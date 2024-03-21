@@ -1,0 +1,105 @@
+#nav{
+    text-decoration: none;
+    color:black;
+    display: flex;
+    justify-content: space-around;
+}
+#buttons{
+    background-color: palevioletred;
+    color: white;
+}
+#Image{
+    display: flex;
+    justify-content: space-between;
+    border: 2px;
+    background-color: white;
+}
+#Apple{
+    background-color: black;
+    color: white;
+}
+
+
+#item{
+    background-color: white;
+}
+#Box{
+    text-align: center;
+}
+#box{
+    border: 2px red;
+    padding: 2px;
+   
+}
+#Small{
+    display: flex;
+    justify-content: space-around;
+}
+#small{
+   display: flex; 
+   justify-content: space-between;
+}
+#Thousand{
+    display: grid;
+}
+#we{
+    text-align: center;
+}
+#mobile{
+    display: flex;
+    justify-content: space-around;
+}
+#know{
+    background-color: navy;
+    color: white;
+}
+#log{
+    border-radius: 30%;
+
+
+}
+#sign{
+    border-radius: 30%;
+    background-color: palevioletred;
+}
+#some{
+    text-align: center;
+}
+#business{
+    display: flex;
+    justify-content:space-around ;
+}
+#over{
+    display: flex;
+    justify-content: space-around;
+}
+#end{
+    display: flex;
+    justify-content: space-around;
+    background-color:navy;
+    color: white;
+}
+#End{
+background-color: black;
+color: white;
+display: flex;
+justify-content: space-around;
+
+}
+#app{
+    background-color: navy;
+    color: white;
+    border-radius: 30%;
+}
+#ply{
+    border-radius: 30%;
+}
+#join{
+    background-color: palevioletred;
+    color: white;
+
+}
+#study{
+    height: 100px;
+    width: 30%;
+}
