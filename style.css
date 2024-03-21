@@ -1,4 +1,4 @@
-#nav{
+#topnav{
     text-decoration: none;
     color:black;
     display: flex;
@@ -21,7 +21,7 @@
 
 
 #item{
-    background-color: white;
+    background-color:lemonchiffon;
 }
 #Box{
     text-align: center;
@@ -103,3 +103,29 @@ justify-content: space-around;
     height: 100px;
     width: 30%;
 }
+#micro{
+    display: flex;
+    justify-content: space-around;
+}
+#way{
+    background-color: lightblue;
+    width: 720px;
+}
+@media screen and (min-width:280px)and(max-width:700px){
+#topnav{
+padding: 0.0005px;
+
+}
+#micro{
+    display: flex;
+    flex-wrap: wrap;
+}
+#end{
+    padding: 2px;
+}
+#buttons{
+    padding: 0.05px;
+}
+}
+
+    
